@@ -1,0 +1,4 @@
+pyserial
+configparser
+requests
+pyinstaller
